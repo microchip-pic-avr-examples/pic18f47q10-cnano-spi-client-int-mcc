@@ -26,7 +26,7 @@ This repository contains an example of MCC generated source code for SPI as desc
 ## Setup
 The PIC18F47Q10 Curiosity Nano Development Board is used as the test platform.
 
-<br><img src="Images/PIC18F47Q10_CNANO.png" width="600">
+<br><img src="images/PIC18F47Q10_CNANO.png" width="600">
 
 The following configurations must be made for this project:
 - Clock
@@ -60,7 +60,7 @@ The following configurations must be made for this project:
 4. Select the *PIC18F47Q10 Curiosity Nano* in the *Hardware Tool* section of the project settings:
   - Right click on the project and click *Properties*;
   - Select the *PIC18F47Q10 Curiosity Nano* (click on the SN) in the *Hardware Tool* tab and then click *OK*:
-<br><img src="Images/SPI-int-mcc-tool.PNG" width="600">
+<br><img src="images/SPI-int-mcc-tool.PNG" width="600">
 
 
 5. Program the project to the board: right click on the project and click *Make and Program Device*.
@@ -71,7 +71,7 @@ Result:
 - Channel 2 -> Client SDO/Host SDI
 - Channel 3 -> SS1
 - Channel 4 -> SS2 (for other client device)
-<br><img src="Images/client-receive.png" width="600">
+<br><img src="images/client-receive.png" width="600">
 
 
 ## Summary
