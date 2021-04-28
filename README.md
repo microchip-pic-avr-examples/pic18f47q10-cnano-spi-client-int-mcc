@@ -1,4 +1,4 @@
-<!-- Please do not change this logo with link -->
+
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
 # Exchanging Data as a Client SPI Device Using Interrupts

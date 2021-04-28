@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-spi-client-int-mcc",
-        "version": "1.0.3",
+        "version": "1.0.0",
         "displayName": "Exchanging Data as an SPI Device Using Interrupts",
         "projectName": "pic18f47q10-cnano-spi-client-int-mcc",
         "shortDescription": "In this demo, the SPI is configured as client and it is used to exchange data. The data transfer is triggered by interrupts. The drivers for peripherals were generated using MCC.",
