@@ -1,7 +1,7 @@
 <!-- Please do not change this logo with link -->
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# PIC18F47Q10 Exchanging Data as a Client SPI Device Using Interrupts
+# Exchanging Data as a Client SPI Device Using Interrupts
 
 ## Objective
 This repository contains an example of MCC generated source code for SPI as described in [*TB3265 - Getting Started with SPI using MSSP on PIC18*](http://ww1.microchip.com/downloads/en/DeviceDoc/Getting-Started-With-SPI-Using-MSSP-on-PIC18-DS90003265A.pdf) document from Microchip.
